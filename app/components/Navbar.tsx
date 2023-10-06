@@ -26,12 +26,6 @@ export default function Navbar() {
           >
             <FaGithub />
           </Link>
-          <Link
-            className="text-white/90 hover:text-white"
-            href="https://github.com/wafizaki"
-          >
-            <p>Source Code</p>
-          </Link>
         </div>
       </div>
     </nav>
